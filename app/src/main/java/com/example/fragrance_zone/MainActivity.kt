@@ -63,6 +63,10 @@ class MainActivity : AppCompatActivity() {
         recyclerView.adapter = MyFragranceAdapter(newArrayList)
     }
 
+    private fun MyFragranceAdapter(newArrayList: ArrayList<fragranceData>): MyFragranceAdapter {
+
+    }
+
     private fun initNavigation() {
         val navHost = supportFragmentManager.findFragmentById(R.id.container) as NavHostFragment
         navController = navHost.navController
