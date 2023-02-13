@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Fragrance Zone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="adding_too_many_screens_can_cause_performance_issues">Adding too many screens can cause performance issues.</string>
+    <string name="add_another_one">add another one</string>
+    <string name="this_is_an_bottomsheetdialogfragment_and_defined_as_dialog_in_nav_graph">This is an bottomSheetDialogFragment and defined as dialog in nav_graph</string>
+    <string name="scroll_to_bottom_and_replace_this_fragment_then_come_back_here_again_you_ll_see_the_state_is_saved_n_ntrick_save_state_without_any_extension_or_smt_just_pass_id_to_your_all_views">Scroll to bottom and replace this fragment, then come back here again. You\'ll see the state is saved.\n\nTrick : Save state without any extension or smt. Just pass id to your all views.</string>
+    <string name="test1">Test1</string>
+    <string name="test2">Test2</string>
+    <string name="test3">Test3</string>
+    <string name="test4">Test4</string>
+    <string name="test5">Test5</string>
+    <string name="test6">Test6</string>
+    <string name="test7">Test7</string>
+    <string name="test8">Test8</string>
+    <string name="test9">Test9</string>
+    <string name="test10">Test10</string>
+    <string name="test11">Test11</string>
+    <string name="test12">Test12</string>
+    <string name="test13">Test13</string>
+    <string name="test14">Test14</string>
+    <string name="test15">Test15</string>
+    <string name="test16">Test16</string>
+    <string name="test17">Test17</string>
+    <string name="test18">Test18</string>
+    <string name="test19">Test19</string>
+    <string name="test20">Test20</string>
+    <string name="test21">Test21</string>
+    <string name="test22">Test22</string>
+    <string name="replace_fragment">Replace Fragment</string>
+    <string name="top_10_trending_perfumes">Top 10 Trending perfumes</string>
+    <string name="notifications">Notifications</string>
+    <string name="trick_dynamic_label">Trick : Dynamic Label</string>
+    <string name="title">Title</string>
+    <string name="navigate">Navigate</string>
+    <string name="perfume">Perfume</string>
+</resources>
